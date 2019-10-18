@@ -23,7 +23,7 @@ def draw_the_lines(img, lines):
     return img
 
 #use below code if want to use image for image detection
-# = cv2.imread('test.jpg')                                         
+#image = cv2.imread('test.jpg')                                         
 #image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
 
